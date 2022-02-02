@@ -1,0 +1,32 @@
+.slikaIDetalji {
+    display: flex;
+    justify-content: center;
+}
+
+.naslovKnjige {
+    margin: 50px 0;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+}
+
+.opis {
+    padding: 20px 0;
+    font-size: 14px;
+    color: gray;
+}
+
+.detalji {
+    max-width: 600px;
+    height: 600px;
+    border: 1px solid #dedede;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white;
+    margin: 0 10px;
+}
+
+img {
+    border-radius: 30px;
+}

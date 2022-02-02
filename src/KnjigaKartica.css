@@ -1,0 +1,29 @@
+.knjigaKartica {
+    width: 25%;
+    border: 1px solid #142041;
+    border-radius: 30px;
+    margin: 5px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.knjigaKartica:hover {
+    box-shadow: 0 0 15px #142041;
+}
+
+.ime {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.pisac {
+    color: gray;
+    font-weight: 700;
+}
+
+.zanr {
+}

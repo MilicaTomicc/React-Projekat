@@ -1,0 +1,19 @@
+.biblioteka {
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    border: 1px solid #dedede;
+    margin: 5%;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.naslov {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 900;
+    color: white;
+}
